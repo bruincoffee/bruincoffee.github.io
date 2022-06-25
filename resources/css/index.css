@@ -49,6 +49,11 @@ h1 {
 .container {
   margin: 0 auto;
 }
+.underline {
+  text-decoration-line:underline;
+  text-decoration-style:wavy;
+  text-decoration-color: yellow;
+}
 
 .banner {
   display: inline-block;
