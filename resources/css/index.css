@@ -53,9 +53,11 @@ h1 {
 .banner {
   display: inline-block;
   width: 100%;
-  padding-right: 8px;
+  /*height: 175px;
+  padding-right: 8px;*/
   background-image: linear-gradient(navy, rgb(183, 183, 207) );
   background-color: navy;
+  font-weight: bolder;
   /*padding-top: 50px;*/
 }
 
@@ -63,14 +65,27 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     color: #fff;
+    padding-top: 45px;
+    
     
   }
   
-  #logo {
+  /*#logo {
     width: 100px;
-    height:auto;
-    float: left;
+    height: 147px;
+    float: right;
     }
+*/
+    #maidIcon {
+      width: 100px;
+      height:auto;
+      float: left;
+      }
+      #maidIconInvert {
+        width: 100px;
+        height:auto;
+        float: right;
+        }
    
    .category {
     display: block;
@@ -231,6 +246,7 @@ h1 {
     width: 100%;
     background-color: gray;
     height: 50px;
+    margin-bottom: 1px;
   }
   .footer p {
     padding-top: 10px;
