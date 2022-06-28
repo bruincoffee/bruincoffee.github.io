@@ -74,12 +74,12 @@ h1 {
     
   }
   
-  /*#logo {
+  #logo {
     width: 100px;
     height: 147px;
-    float: right;
+    float: left;
     }
-*/
+
     #maidIcon {
       width: 110px;
       height:auto;
@@ -253,7 +253,7 @@ h1 {
     margin-bottom: 1px;
   }
   .footer p {
-    padding-top: 10px;
+    padding: 10px 5px 5px 0;
     color: ghostwhite;
     font-size: 20px;
     text-align: center;
