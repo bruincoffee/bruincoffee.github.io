@@ -1,5 +1,5 @@
 # bruincoffee.github.io
-mistakesWereMaid
+
     Mistakes Were Maid! is a collaborative effort to sweep up and log all the world's typos!
     Well, maybe not all of them. Have you ever been walking down the street, surfing the internet, 
     or reading a book and noticed something spelled wrong or written grammatically incorrectly? 
