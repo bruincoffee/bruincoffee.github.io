@@ -1,0 +1,26 @@
+{
+    "title": "Index",
+    "pages": [
+      {
+        "key": "intro",
+        "paragraphs": [
+          "You are in a forest--it is raining. You hear thunder and lightning strikes nearby.",
+          "You discover two doors set into a hillside. A menacing bear is on top of the hill."
+        ],
+        "links": [
+          {
+            "text": "Enter the right door",
+            "target": "right door"
+          },
+          {
+            "text": "Enter left door",
+            "target": "left door"
+          },
+          {
+            "text": "Fight the bear",
+            "target": "fight bear"
+          }
+        ]
+      }
+    ]
+}

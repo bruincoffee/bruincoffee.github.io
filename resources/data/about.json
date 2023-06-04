@@ -1,0 +1,22 @@
+{
+    "title": "About",
+    "pages": [
+      {
+        "key": "about",
+        "paragraphs": [
+          "The difference between the almost right word and the right word is really. . .",
+          "And the right word is really a large matter - 'tis the difference between the lightning-bug and the lightning."
+        ],
+        "links": [
+          {
+            "text": "Stay up late",
+            "target": "up late"
+          },
+          {
+            "text": "Go to bed early",
+            "target": "bed early"
+          }
+        ]
+      }
+    ]
+}
